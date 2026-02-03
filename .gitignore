@@ -16,4 +16,5 @@ artifacts/*
 
 # External repositories (cloned during course)
 openclaw-repo/
-course-repo/
+course-repo/*
+!course-repo/.gitkeep
