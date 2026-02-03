@@ -6,6 +6,33 @@ Stakeholders don't understand `import openai` or module structures. They underst
 ## Your Task
 Analyze the cloned OpenClaw repository and create architecture diagrams (using Mermaid) that map the "As-Is" state. Then translate technical components into a business feature map.
 
+## Viewing Mermaid Diagrams
+
+**Say:**
+
+"Before we create the diagrams, let's make sure you can view them. Mermaid is a 'Documentation as Code' tool — you write diagrams in plain text, and they render visually. To see the diagrams in VS Code, you'll need an extension."
+
+**ACTION:** Guide the student to install the extension:
+1. Open the Extensions panel (Cmd+Shift+X on Mac, Ctrl+Shift+X on Windows)
+2. Search for `Markdown Preview Mermaid Support`
+3. Install the extension by `Matt Bierner`
+4. After installation, open any `.md` file and use `Cmd+Shift+V` (Mac) or `Ctrl+Shift+V` (Windows) to preview — Mermaid diagrams will now render
+
+**Say:**
+
+"Once installed, you can preview any Markdown file with Mermaid blocks. The diagrams render live as you edit."
+
+**Pro Tip — Enterprise Documentation:**
+
+"In enterprise environments, Mermaid diagrams are portable:
+- **Confluence**: If your company has the Mermaid plugin installed, you can paste these diagram blocks directly into Confluence pages — they'll render natively. Check with your wiki admin.
+- **GitHub/GitLab**: Both render Mermaid in Markdown files automatically.
+- **Alternative tools**: If your team prefers other 'Docs as Code' tools, the same concepts apply to **PlantUML** (more verbose but powerful for sequence diagrams) or **Draw.io** (visual editor with export options). The skill is the same — translating architecture into shareable diagrams."
+
+**STOP:** Ask: "Is the Mermaid preview extension installed? Try opening a Markdown file and previewing it. Let me know when you're ready to create the architecture diagrams."
+
+---
+
 ## IDE Workflow
 
 ### Step 1: High-Level Architecture Diagram
