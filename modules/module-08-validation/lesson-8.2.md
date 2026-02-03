@@ -16,7 +16,9 @@ Use Antigravity to:
 Ask me to create `artifacts/exec_readout.md`.
 Ask me to create `artifacts/lessons_learned.md` (retrospective across all phases).
 
-**STOP:** Verify both deliverables are created before wrapping the course.
+**STOP:** After creating the artifacts, ask: "Executive readout and lessons learned are complete. Review `artifacts/exec_readout.md` — would this satisfy the CTO's original vision from the exec summary? Check `artifacts/lessons_learned.md` for insights across all phases."
+
+**STOP:** Once confirmed, ask: "The course is complete. You've navigated a complex, senior-level BA project — from messy discovery notes to governed delivery. Your `artifacts/` folder contains a complete BA delivery package. In a real engagement, these would be your handoff to the development team and evidence trail for the steering committee. Well done."
 
 ---
 **Course Completed.**

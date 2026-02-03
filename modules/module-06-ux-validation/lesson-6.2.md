@@ -14,5 +14,7 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/local_prototype.html`.
 
+**STOP:** After creating the artifact, ask: "The interactive prototype is ready. Open `artifacts/local_prototype.html` in a browser and test the PII filter simulation. Try entering an email address in the prompt. Does it trigger the security warning? Ready for UX review in Lesson 6.3?"
+
 ---
-**STOP:** Move to Lesson 6.3.
+Move to Lesson 6.3.

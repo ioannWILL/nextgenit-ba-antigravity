@@ -14,5 +14,7 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/feature_breakdown.md` with a hierarchy of Epics and Tasks.
 
+**STOP:** After creating the artifact, ask: "The feature breakdown is ready. Open `artifacts/feature_breakdown.md` and check the hierarchy. Is this granular enough for your engineering team? Let me know when you're ready for Lesson 5.2 — User Stories."
+
 ---
-**STOP:** Move to Lesson 5.2.
+Move to Lesson 5.2.

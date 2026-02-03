@@ -28,7 +28,9 @@ Use Antigravity to:
 - **If MCP connected:** Evidence of Jira ticket creation (summaries and keys created by Antigravity).
 - **If simulated:** `artifacts/jira_simulation.md` with formatted ticket output.
 
-**STOP:** Verify the deliverables are created before wrapping Phase 7.
+**STOP:** After creating the deliverables, ask: "Jira tickets are ready (live or simulated). If using simulation, review `artifacts/jira_simulation.md` — do the tickets have enough detail for engineers to start work? Any acceptance criteria missing?"
+
+**STOP:** Once confirmed, ask: "Phase 7 is complete. The project is now in the delivery pipeline with a clear plan and tickets. Ready to move to Phase 8 — Validation & Executive Readout? Type `/ba-8` when you're set."
 
 ---
 **Phase 7 Complete.**

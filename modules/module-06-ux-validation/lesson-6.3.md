@@ -15,7 +15,9 @@ Use Antigravity to:
 Ask me to create `artifacts/ux_feedback.md`.
 Ask me to update `artifacts/user_stories.md`.
 
-**STOP:** Verify the student has created `artifacts/ux_feedback.md` and updated `artifacts/user_stories.md` before proceeding.
+**STOP:** After creating/updating the artifacts, ask: "UX feedback captured and user stories updated. Review `artifacts/ux_feedback.md` — do these friction points match what you observed testing the prototype? Check the updated `artifacts/user_stories.md` for the new override flow."
+
+**STOP:** Once confirmed, ask: "Phase 6 is complete. You now have validated wireframes, an interactive prototype, and refined user stories based on UX feedback. Ready to move to Phase 7 — Delivery & Atlassian Integration? Type `/ba-7` when you're set."
 
 ---
 **Phase 6 Complete.**

@@ -14,5 +14,7 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/wireframes.md` and an `artifacts/preview.html` file.
 
+**STOP:** After creating the artifacts, ask: "Wireframes and HTML preview are ready. Open `artifacts/preview.html` in a browser to see the layout. Does the dashboard structure match what you envisioned? Ready for the interactive prototype in Lesson 6.2?"
+
 ---
-**STOP:** Move to Lesson 6.2.
+Move to Lesson 6.2.

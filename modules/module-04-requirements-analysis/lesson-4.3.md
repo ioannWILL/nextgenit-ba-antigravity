@@ -14,7 +14,9 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/risk_register.md`.
 
-**STOP:** Verify the student has created `artifacts/risk_register.md` before proceeding.
+**STOP:** After creating the artifact, ask: "The risk register is complete. Open `artifacts/risk_register.md` and review the identified risks and mitigations. Any edge cases you think we missed?"
+
+**STOP:** Once confirmed, ask: "Phase 4 is complete. You now have a solid requirements foundation — functional requirements, NFRs, business rules, RBAC matrix, and a risk register. Ready to move to Phase 5 — Feature Design? Type `/ba-5` when you're set."
 
 ---
 **Phase 4 Complete.**

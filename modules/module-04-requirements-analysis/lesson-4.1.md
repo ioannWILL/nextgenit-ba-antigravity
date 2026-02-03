@@ -15,5 +15,7 @@ Use Antigravity to:
 Ask me to create `artifacts/functional_requirements.md`.
 Ask me to create `artifacts/nfr.md`.
 
+**STOP:** After creating the artifacts, ask: "I've drafted both the functional requirements and NFRs. Open `artifacts/functional_requirements.md` and `artifacts/nfr.md` to review. Do these capture the governance mandate from the stakeholder interviews? Let me know when you're ready for Lesson 4.2."
+
 ---
-**STOP:** Move to Lesson 4.2.
+Move to Lesson 4.2.

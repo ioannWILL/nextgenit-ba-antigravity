@@ -15,5 +15,7 @@ Use Antigravity to:
 Ask me to create `artifacts/user_stories.md`.
 Ask me to create an `artifacts/login_flow.feature` file with your Gherkin scenarios.
 
+**STOP:** After creating the artifacts, ask: "User stories and Gherkin scenarios are done. Review `artifacts/user_stories.md` and `artifacts/login_flow.feature`. Are the acceptance criteria testable? Would a QA engineer know exactly what to verify? Ready for Lesson 5.3 — Data & Integration?"
+
 ---
-**STOP:** Move to Lesson 5.3.
+Move to Lesson 5.3.

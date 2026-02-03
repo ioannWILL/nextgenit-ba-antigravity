@@ -14,5 +14,7 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/uat_plan.md` and `artifacts/acceptance_checklist.md`.
 
+**STOP:** After creating the artifacts, ask: "UAT plan and acceptance checklist are ready. Review `artifacts/uat_plan.md` — are the test cases comprehensive enough to catch the edge cases from your risk register? Check `artifacts/acceptance_checklist.md` for sign-off criteria. Ready for the Executive Readout in Lesson 8.2?"
+
 ---
-**STOP:** Move to Lesson 8.2.
+Move to Lesson 8.2.

@@ -15,5 +15,7 @@ Use Antigravity to:
 Ask me to create `artifacts/business_rules.md`.
 Ask me to create `artifacts/roles_permissions_matrix.md`.
 
+**STOP:** After creating the artifacts, ask: "The business rules and RBAC matrix are ready. Check `artifacts/business_rules.md` and `artifacts/roles_permissions_matrix.md`. Does the permission model match what Alex (CISO) outlined? Ready for the risk analysis in Lesson 4.3?"
+
 ---
-**STOP:** Move to Lesson 4.3.
+Move to Lesson 4.3.

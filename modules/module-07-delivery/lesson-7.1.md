@@ -14,5 +14,7 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/delivery_plan.md`.
 
+**STOP:** After creating the artifact, ask: "Delivery plan is ready. Open `artifacts/delivery_plan.md` and review the phased rollout and dependencies. Does this timeline align with the Jan 15 milestone mentioned in the exec summary? Ready for Jira integration in Lesson 7.2?"
+
 ---
-**STOP:** Move to Lesson 7.2.
+Move to Lesson 7.2.

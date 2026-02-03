@@ -14,7 +14,9 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/data_model.md` and `artifacts/integration_flows.md`.
 
-**STOP:** Verify the student has created `artifacts/data_model.md` and `artifacts/integration_flows.md` before proceeding.
+**STOP:** After creating the artifacts, ask: "Data model and integration flows are documented. Check `artifacts/data_model.md` and `artifacts/integration_flows.md`. Does the Jira integration flow match what Sam (Engineering Lead) described? Any fields missing?"
+
+**STOP:** Once confirmed, ask: "Phase 5 is complete. You've decomposed the feature, written user stories with Gherkin ACs, and defined the data contracts. Ready to move to Phase 6 — Mockups & Validation? Type `/ba-6` when you're set."
 
 ---
 **Phase 5 Complete.**
