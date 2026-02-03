@@ -1,3 +1,13 @@
+<!--
+BA Antigravity Course
+Copyright (c) 2025 Ivan Vilchavskyi
+
+Licensed under CC BY-NC-ND 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Educational use only. Commercial use and derivatives not permitted.
+-->
+
 # Lesson 1.1: Interview Synthesis
 
 ## Context

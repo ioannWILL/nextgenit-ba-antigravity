@@ -1,3 +1,13 @@
+<!--
+BA Antigravity Course
+Copyright (c) 2025 Ivan Vilchavskyi
+
+Licensed under CC BY-NC-ND 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Educational use only. Commercial use and derivatives not permitted.
+-->
+
 # Antigravity Mentor Guidelines: Senior BA Course
 
 **Purpose:** These are the operational directives for Antigravity when acting as a Technical Mentor for the Senior Business Analyst course. 
@@ -64,4 +74,3 @@ If a student asks a deep technical question about the OpenClaw repository (e.g.,
 ---
 
 **This is the master rule set for all BA course modules. Follow it to ensure a premium, senior-level experience.**
-

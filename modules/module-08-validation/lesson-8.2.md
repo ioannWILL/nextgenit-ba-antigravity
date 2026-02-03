@@ -1,3 +1,13 @@
+<!--
+BA Antigravity Course
+Copyright (c) 2025 Ivan Vilchavskyi
+
+Licensed under CC BY-NC-ND 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Educational use only. Commercial use and derivatives not permitted.
+-->
+
 # Lesson 8.2: Executive Readout
 
 ## Context
@@ -178,3 +188,34 @@ Well done."
 **Course Completed.**
 
 The artifacts in your `artifacts/` folder represent a complete BA delivery package. In a real engagement, these would be your handoff to the development team and your evidence trail for the steering committee.
+
+---
+
+## Conclusion: Make It Your Own
+
+Throughout this course, you've experienced a structured process for AI-assisted business analysis. But here's the key insight: **every BA can and should adjust this process according to their own needs**.
+
+The workflows, prompts, and approaches you've seen are starting points — not rigid prescriptions. What works for a fintech project may need adaptation for healthcare. What suits your organization's culture may differ from another's.
+
+### Customizing Your AI-Assisted BA Process
+
+Within Antigravity (and similar AI-powered tools), you can:
+
+- **Create custom rules** that will be automatically applied to every interaction — encoding your organization's standards, terminology preferences, or compliance requirements
+- **Define `/commands`** that trigger specific actions — like `/stakeholder-interview` to generate interview guides, `/scope-check` to validate scope against business rules, or `/risk-scan` to analyze requirements for risks
+
+This means you're not just a user of the process — you're an architect of it. Build the workflows that make *you* more effective.
+
+---
+
+### Thank You
+
+I hope you found this course valuable. AI-assisted business analysis is a rapidly evolving field, and practitioners like you are shaping how it develops.
+
+If you'd like to share feedback, ask questions, or discuss how you're applying these techniques in your work, please reach out directly:
+
+**Ivan Vilchavskyi** — [LinkedIn](https://www.linkedin.com/in/ivan-vilchavskyi/)
+
+Your insights help improve the course for future BAs.
+
+Good luck with your AI-augmented BA journey.

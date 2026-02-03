@@ -1,4 +1,19 @@
+# macOS
 .DS_Store
+
+# Temporary files
 temp_ppt/
-course-repo/.DS_Store
+
+# IDE and tool settings
+.claude/
+.antigravity/
+.cursor/
+.vscode/
+
+# Course artifacts (generated during lessons)
+artifacts/*
+!artifacts/.gitkeep
+
+# External repositories (cloned during course)
 openclaw-repo/
+course-repo/
