@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Permission-Based UI**: "Modify the mockup to show what a 'Viewer-only' user would see vs an 'Admin' (e.g., hide the Admin settings)."
 
 ## Deliverables
-Create `artifacts/wireframes.md` and an `artifacts/preview.html` file.
+Ask me to create `artifacts/wireframes.md` and an `artifacts/preview.html` file.
 
 ---
 **STOP:** Move to Lesson 6.2.

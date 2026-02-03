@@ -12,8 +12,8 @@ Use Antigravity to:
 2.  **NFR Drafting**: "Draft NFRs for Latency (how fast is the bot?), Availability, and Data Residency."
 
 ## Deliverables
-Create `artifacts/functional_requirements.md`.
-Create `artifacts/nfr.md`.
+Ask me to create `artifacts/functional_requirements.md`.
+Ask me to create `artifacts/nfr.md`.
 
 ---
 **STOP:** Move to Lesson 4.2.

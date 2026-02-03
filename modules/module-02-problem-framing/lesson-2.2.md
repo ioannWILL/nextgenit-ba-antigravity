@@ -12,8 +12,8 @@ Use Antigravity to:
 2.  **Trade-offs**: "Explain why 'Dark Mode' (requested by Jenny) should be in 'Won't have' for the initial release."
 
 ## Deliverables
-Create `artifacts/scope_definition.md` with a MoSCoW table.
-Create `artifacts/out_of_scope.md` explicitly listing items we are NOT building yet.
+Ask me to create `artifacts/scope_definition.md` with a MoSCoW table.
+Ask me to create `artifacts/out_of_scope.md` explicitly listing items we are NOT building yet.
 
 Optionally ask user if they want to create pages in Confluence based on the artifacts created.
 

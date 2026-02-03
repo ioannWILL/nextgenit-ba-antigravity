@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Risk Mitigation**: "For each risk in my `artifacts/risk_register.md`, help me write a technical and a process-based mitigation."
 
 ## Deliverables
-Create `artifacts/risk_register.md`.
+Ask me to create `artifacts/risk_register.md`.
 
 **STOP:** Verify the student has created `artifacts/risk_register.md` before proceeding.
 

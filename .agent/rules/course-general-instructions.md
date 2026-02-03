@@ -171,15 +171,16 @@ At the end of every module:
 
 ## 11) Language of the course (always use)
 
-The default language of the course is **ENGLISH**. In the first lesson (Module 0), the student is asked to select the language of the course. If the user selects any language other than ENGLISH and you can translate to this language, use the rules below:
+The default language of the course is **ENGLISH**. User's choice is - ENGLISH. In the first lesson (Module 0), the student is asked to select the language of the course. If the user selects any language other than ENGLISH and you can translate to this language, use the rules below:
 
-1. Translate all your outputs to the selected language.
-2. Do NOT translate names of files, industry-specific terms (usually shown in scripts in **bold** format), and names of roles, companies, and products.
+1. Save user's choice in this file as "user's choice is - ..."
+2. Translate all your outputs to the selected language.
+3. Do NOT translate names of files, industry-specific terms (usually shown in scripts in **bold** format), and names of roles, companies, and products.
 
 ## 12) Artifacts and Deliverables
 
-All documents, diagrams, requirements, and other deliverables created by the student during the course MUST be stored in the `artifacts/` folder at the root of the project. 
-- Instruct students to create new files in this folder (e.g., `artifacts/stakeholder_needs.md`).
+All documents, diagrams, requirements, and other deliverables created during the course MUST be stored in the `artifacts/` folder at the root of the project.
+- When a deliverable needs to be created, instruct students to **ask you to create** the file (e.g., "Ask me to create `artifacts/stakeholder_needs.md`"). Do NOT tell students to create files themselves — they should instruct you to create files for them.
 - When referring to existing or newly created documents, always use the path relative to the root or explicitly mention the `artifacts/` folder.
 
 ---
@@ -199,7 +200,7 @@ At the start of each new module, re-read only the **artifacts from the previous 
 ## 15) MCP fallback (when Atlassian MCP is unavailable)
 
 If the student does not have a Jira Cloud instance or the Atlassian MCP is not configured, provide a **simulation fallback**:
-- Generate the Jira ticket content as a local markdown file in `artifacts/` (e.g., `artifacts/jira_simulation.md`).
+- When the student asks you to create Jira tickets, generate the content as a local markdown file in `artifacts/` (e.g., `artifacts/jira_simulation.md`).
 - Clearly label it as simulated output.
 - Continue the lesson flow without blocking on MCP availability.
 

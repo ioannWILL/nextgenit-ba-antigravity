@@ -12,8 +12,8 @@ Use Antigravity to:
 2.  **RBAC Matrix**: "Create a markdown table for Roles (Dev, Lead, Security, Admin) vs Permissions (Ask, Read Logs, Delete History, Config)."
 
 ## Deliverables
-Create `artifacts/business_rules.md`.
-Create `artifacts/roles_permissions_matrix.md`.
+Ask me to create `artifacts/business_rules.md`.
+Ask me to create `artifacts/roles_permissions_matrix.md`.
 
 ---
 **STOP:** Move to Lesson 4.3.

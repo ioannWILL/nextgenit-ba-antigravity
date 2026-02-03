@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Checklist Drafting**: "Create a simple 'Acceptance Checklist' for the Product Owner to sign off on."
 
 ## Deliverables
-Create `artifacts/uat_plan.md` and `artifacts/acceptance_checklist.md`.
+Ask me to create `artifacts/uat_plan.md` and `artifacts/acceptance_checklist.md`.
 
 ---
 **STOP:** Move to Lesson 8.2.

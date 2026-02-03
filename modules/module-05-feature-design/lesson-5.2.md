@@ -12,8 +12,8 @@ Use Antigravity to:
 2.  **AC Generation**: "Generate 3 'Unhappy Path' Gherkin scenarios for the login flow."
 
 ## Deliverables
-Create `artifacts/user_stories.md`.
-Create an `artifacts/login_flow.feature` file with your Gherkin scenarios.
+Ask me to create `artifacts/user_stories.md`.
+Ask me to create an `artifacts/login_flow.feature` file with your Gherkin scenarios.
 
 ---
 **STOP:** Move to Lesson 5.3.

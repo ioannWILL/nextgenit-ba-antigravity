@@ -49,8 +49,8 @@ Use Antigravity to:
 ---
 
 ## Deliverables
-Create `artifacts/as_is_capabilities.md` mapping what the code currently supports.
-Create `artifacts/technical_constraints.md` listing the blockers for scaling this codebase to 500 people.
+Ask me to create `artifacts/as_is_capabilities.md` mapping what the code currently supports.
+Ask me to create `artifacts/technical_constraints.md` listing the blockers for scaling this codebase to 500 people.
 
 ---
 **STOP:** Verify both artifacts are created, then move to Lesson 3.2.

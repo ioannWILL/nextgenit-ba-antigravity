@@ -12,8 +12,8 @@ Use Antigravity to:
 2.  **Requirement Update**: "Update the `artifacts/user_stories.md` from Phase 5 to include an 'Override' flow with an audit log."
 
 ## Deliverables
-Create `artifacts/ux_feedback.md`.
-Update `artifacts/user_stories.md`.
+Ask me to create `artifacts/ux_feedback.md`.
+Ask me to update `artifacts/user_stories.md`.
 
 **STOP:** Verify the student has created `artifacts/ux_feedback.md` and updated `artifacts/user_stories.md` before proceeding.
 

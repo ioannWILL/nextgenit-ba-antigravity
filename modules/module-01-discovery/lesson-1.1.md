@@ -12,13 +12,13 @@ Use Antigravity to:
 2.  **Pattern Detection**: "What is the common technical complaint across all engineering interviews?"
 
 ## Deliverables
-Create a file named `artifacts/stakeholder_needs.md` in this directory with the following structure:
+Ask me to create a file named `artifacts/stakeholder_needs.md` with the following structure:
 - **Stakeholder Group**
 - **Core Needs**
 - **Pain Points**
 - **Priority (High/Med/Low)**
 
-And a file `artifacts/assumptions_risks.md` listing at least 3 risks identified during discovery.
+And ask me to create `artifacts/assumptions_risks.md` listing at least 3 risks identified during discovery.
 
 ---
 **STOP:** Once you have created these files, move to Lesson 1.2.

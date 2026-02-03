@@ -12,12 +12,12 @@ Use Antigravity to:
 2.  **Metric Design**: "Help me define 3 'North Star' metrics for this project. How do we measure 'productivity' for 500 engineers?"
 
 ## Deliverables
-Create `artifacts/problem_statement.md` containing:
+Ask me to create `artifacts/problem_statement.md` containing:
 - The Problem (The "Pain")
 - The Impact (Why it matters now)
 - The Vision (The "Future State")
 
-Create `artifacts/success_metrics.md` listing 3-5 KPIs.
+Ask me to create `artifacts/success_metrics.md` listing 3-5 KPIs.
 
 Ask user if they want to create pages in Confluence based on the artifacts created.
 

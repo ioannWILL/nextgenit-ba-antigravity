@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Structuring**: "Group these sub-tasks into a clear hierarchy in `artifacts/feature_breakdown.md`."
 
 ## Deliverables
-Create `artifacts/feature_breakdown.md` with a hierarchy of Epics and Tasks.
+Ask me to create `artifacts/feature_breakdown.md` with a hierarchy of Epics and Tasks.
 
 ---
 **STOP:** Move to Lesson 5.2.

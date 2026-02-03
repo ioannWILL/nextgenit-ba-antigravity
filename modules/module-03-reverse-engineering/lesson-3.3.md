@@ -33,7 +33,7 @@ Use Antigravity to:
 ---
 
 ## Deliverables
-Create `artifacts/gap_analysis.md` summarizing the Delta, including:
+Ask me to create `artifacts/gap_analysis.md` summarizing the Delta, including:
 - A table: [Stakeholder Need] → [Jira Status] → [Code Reality] → [Gap Type]
 - A list of structurally missing components with complexity estimates
 - A dependency chain for new components

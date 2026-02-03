@@ -56,7 +56,7 @@ Use Antigravity to:
 ---
 
 ## Deliverables
-Create `artifacts/as_is_feature_map.md` with:
+Ask me to create `artifacts/as_is_feature_map.md` with:
 - A high-level architecture diagram (Mermaid).
 - A request flow sequence diagram (Mermaid).
 - An As-Is vs To-Be comparison diagram (Mermaid).

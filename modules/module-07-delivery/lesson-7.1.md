@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Plan Drafting**: "Draft a 1-page `artifacts/delivery_plan.md` that outlines the Jan 15 milestone."
 
 ## Deliverables
-Create `artifacts/delivery_plan.md`.
+Ask me to create `artifacts/delivery_plan.md`.
 
 ---
 **STOP:** Move to Lesson 7.2.

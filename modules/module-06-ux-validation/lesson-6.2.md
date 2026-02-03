@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Validation**: "Open the prototype in a browser (if available) or review the code to ensure it meets the 'RBAC' requirements from Phase 4."
 
 ## Deliverables
-Create `artifacts/local_prototype.html`.
+Ask me to create `artifacts/local_prototype.html`.
 
 ---
 **STOP:** Move to Lesson 6.3.

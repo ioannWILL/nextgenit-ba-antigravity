@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Flow Diagrams**: "Describe the integration flow when a user 'Converts a Prompt Response to a Jira Ticket'. What fields are sent to the Jira API?"
 
 ## Deliverables
-Create `artifacts/data_model.md` and `artifacts/integration_flows.md`.
+Ask me to create `artifacts/data_model.md` and `artifacts/integration_flows.md`.
 
 **STOP:** Verify the student has created `artifacts/data_model.md` and `artifacts/integration_flows.md` before proceeding.
 

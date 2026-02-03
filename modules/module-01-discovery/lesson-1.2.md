@@ -12,8 +12,8 @@ Use Antigravity to:
 2.  **Gap Analysis**: "What 'directives' from the CTO are currently impossible given the security stakeholder's concerns?"
 
 ## Deliverables
-Create a file named `artifacts/exec_vs_delivery_gap.md` identifying the top 3 misalignments.
-Create a file named `artifacts/questions_for_exec.md` containing 5 sharp questions you would ask the CTO to clarify the scope.
+Ask me to create a file named `artifacts/exec_vs_delivery_gap.md` identifying the top 3 misalignments.
+Ask me to create a file named `artifacts/questions_for_exec.md` containing 5 sharp questions you would ask the CTO to clarify the scope.
 
 Explain concept "Garbage In - Garbage Out". Stritly recommend to review and update all deliverables of AI Assistants because they are not replacing user but boosting their productivity
 

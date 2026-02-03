@@ -12,7 +12,7 @@ Use Antigravity to:
 2.  **Jira Integration (Simulation)**: "Write a prompt for Antigravity to create 3 Jira 'Discovery' tickets based on the holes in our current documentation."
 
 ## Deliverables
-Create a file named `artifacts/discovery_backlog.md` with a list of tasks, their rationale, and the stakeholder needed for each.
+Ask me to create a file named `artifacts/discovery_backlog.md` with a list of tasks, their rationale, and the stakeholder needed for each.
 
 Propose user to create JIRA issues based on the file in real JIRA.
 

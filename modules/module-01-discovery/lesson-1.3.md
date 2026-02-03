@@ -88,7 +88,7 @@ I'll use my tools to reach out to your Atlassian workspace and show you what I s
 
 "Finally, we can make our workspace 'smart.' By creating a **Workspace Rule**, I will always know which Jira project and Confluence space is the 'source of truth' for this specific folder.
 
-Create a file named `.agent/rules/atlassian.md` and add your project keys:
+Ask me to create a file named `.agent/rules/atlassian.md` and provide your project keys:
 ```markdown
 # Atlassian Context
 - **Jira Project:** [YOUR_KEY]

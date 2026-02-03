@@ -13,8 +13,8 @@ Use Antigravity to:
 3.  **Full-Project Review**: "Analyze all artifacts in `artifacts/` and generate a 'lessons learned' document — what went well, what assumptions changed, and what risks materialized during the analysis."
 
 ## Deliverables
-Create `artifacts/exec_readout.md`.
-Create `artifacts/lessons_learned.md` (retrospective across all phases).
+Ask me to create `artifacts/exec_readout.md`.
+Ask me to create `artifacts/lessons_learned.md` (retrospective across all phases).
 
 **STOP:** Verify both deliverables are created before wrapping the course.
 
