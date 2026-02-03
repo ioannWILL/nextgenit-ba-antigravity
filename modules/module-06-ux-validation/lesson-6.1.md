@@ -97,7 +97,15 @@ Use Antigravity to:
 Ask me to create `artifacts/wireframes.md` with layout documentation and decisions.
 Ask me to create `artifacts/preview.html` with the interactive HTML wireframe.
 
-**STOP:** After creating the artifacts, ask: "Wireframes and HTML preview are ready. Open `artifacts/preview.html` in a browser to see the layout:
+**STOP:** After creating the artifacts, ask: "Wireframes and HTML preview are ready. Would you like me to open `artifacts/preview.html` in your browser so you can see the layout?"
+
+**ACTION:** If the user agrees, run:
+```bash
+open artifacts/preview.html
+```
+(On Windows, use `start artifacts/preview.html`. On Linux, use `xdg-open artifacts/preview.html`.)
+
+**STOP:** After the user views the wireframe, ask: "Now that you've seen the wireframe in the browser:
 - Does the dashboard structure support the user stories from Phase 5?
 - Is the quota indicator visible enough?
 - Would Priya (PM) approve this layout for her team?
