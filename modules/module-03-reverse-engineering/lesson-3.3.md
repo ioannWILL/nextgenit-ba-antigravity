@@ -18,6 +18,8 @@ Use Antigravity to:
 1. **Cross-Reference**: "Compare the `discovery-results/jira_existing.md` backlog with the capabilities you documented in `artifacts/as_is_capabilities.md` (based on the real OpenClaw repo). Which Jira tickets are currently technically impossible without a complete rewrite? Which ones are partially addressed by the existing codebase?"
 2. **Missing Requirements**: "Are there any 'Security' requirements from Alex (CISO) in `artifacts/stakeholder_needs.md` that don't have a corresponding Jira ticket yet? List them with severity."
 
+**STOP:** After the cross-reference analysis, ask: "Here's what I found comparing the Jira backlog against the real codebase. Some surprises? Let me know your observations before we identify the structural gaps."
+
 ---
 
 ### Step 2: Architecture-Aware Gap Identification
@@ -38,7 +40,9 @@ Ask me to create `artifacts/gap_analysis.md` summarizing the Delta, including:
 - A list of structurally missing components with complexity estimates
 - A dependency chain for new components
 
-**STOP:** Verify the student has created `artifacts/gap_analysis.md` before proceeding.
+**STOP:** After creating the artifact, ask: "The gap analysis is ready. Open `artifacts/gap_analysis.md` and review the findings. This is the 'truth document' that shows where reality diverges from plans. Anything you'd like to adjust or discuss?"
+
+**STOP:** Once confirmed, ask: "Phase 3 is complete. You've reverse-engineered a real codebase and documented exactly where it falls short. Ready to move to Phase 4 — Requirements Analysis? Type `/ba-4` when you're set."
 
 ---
 **Phase 3 Complete.**

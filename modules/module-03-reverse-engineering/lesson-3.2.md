@@ -17,7 +17,7 @@ Analyze the cloned OpenClaw repository and create architecture diagrams (using M
 Use Antigravity to:
 1. **Architecture Diagram**: "Based on the `course-repo/` codebase, generate a Mermaid architecture diagram showing the main components and how they interact: user input flow, LLM API calls, response handling, file system interactions, and any integrations. Use `graph TD` (top-down) format."
 
-**Check:** Review the generated diagram. Ask the student: "Does this match what you expected from the interviews? Where are the governance components?"
+**STOP:** After generating the diagram, ask: "Here's the architecture diagram. Does this match what you expected from the interviews? Notice anything missing — like governance components? Let me know your thoughts before we move on."
 
 ---
 
@@ -30,6 +30,8 @@ Use Antigravity to:
 Use Antigravity to:
 1. **Sequence Diagram**: "Generate a Mermaid sequence diagram showing the lifecycle of a single user prompt through the OpenClaw codebase. Include every step: input parsing, any middleware/filtering, API call, response processing, and output. Highlight where **PII risk** exists (data that passes unfiltered to external APIs)."
 
+**STOP:** After generating the sequence diagram, ask: "This shows the request flow with PII risk points highlighted. Can you see where unfiltered data goes to external APIs? Ready for the business feature translation?"
+
 ---
 
 ### Step 3: Business Feature Translation
@@ -41,6 +43,8 @@ Use Antigravity to:
 Use Antigravity to:
 1. **Feature Map Table**: "Based on the repository analysis, create a table with three columns: [Technical Component/Module] → [Business Feature Name] → [Current Limitation]. For example: `openai.ChatCompletion.create` → 'AI Code Generation' → 'No rate limiting, shared API key'."
 2. **Glossary**: "Create a glossary of technical terms from the OpenClaw codebase for non-technical stakeholders. Include terms they'll hear in meetings: API, token, prompt, embedding, rate limit, etc."
+
+**STOP:** After creating the feature map and glossary, ask: "I've translated the technical components into business language. Review the table and glossary — would this make sense to the CTO or a steering committee? Let me know when you're ready for the final diagram."
 
 ---
 
@@ -64,4 +68,6 @@ Ask me to create `artifacts/as_is_feature_map.md` with:
 - A glossary for non-technical stakeholders.
 
 ---
-**STOP:** Verify the artifacts are created with all diagrams, then move to Lesson 3.3.
+**STOP:** After creating the artifact, ask: "The feature map is ready with all diagrams. Open `artifacts/as_is_feature_map.md` and check if the Mermaid diagrams render correctly. Any adjustments needed?"
+
+**STOP:** Once confirmed, ask: "All the architecture documentation is complete. Ready to move to Lesson 3.3 where we'll do the gap analysis — comparing what exists vs what's planned vs what stakeholders actually need?"

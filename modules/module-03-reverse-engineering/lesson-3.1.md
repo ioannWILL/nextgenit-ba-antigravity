@@ -21,6 +21,8 @@ git clone https://github.com/openclaw/openclaw course-repo
 
 **Check:** Wait for the student to confirm the clone was successful. If the clone fails (network issues, repo unavailable), instruct the student to verify internet access and try again. The cloned folder `course-repo/` should now appear in the File Explorer.
 
+**STOP:** Ask the student: "Can you see the `course-repo/` folder in your file explorer? Let me know when you're ready to explore its structure."
+
 ---
 
 ### Step 2: Explore the Repository Structure
@@ -32,7 +34,7 @@ git clone https://github.com/openclaw/openclaw course-repo
 Use Antigravity to:
 1. **Structure Scan**: "Analyze the `course-repo/` directory. List the top-level folders, key files, and describe what each component appears to be responsible for."
 
-**Check:** Wait for the student to review the structure output.
+**STOP:** After presenting the structure scan, ask the student: "Take a moment to review the repository structure. Any surprises compared to what you expected from the interviews? When you're ready, we'll dig into the security concerns."
 
 ---
 
@@ -53,4 +55,6 @@ Ask me to create `artifacts/as_is_capabilities.md` mapping what the code current
 Ask me to create `artifacts/technical_constraints.md` listing the blockers for scaling this codebase to 500 people.
 
 ---
-**STOP:** Verify both artifacts are created, then move to Lesson 3.2.
+**STOP:** After creating each artifact, ask: "I've created the file. Please open it and review the contents. Does the analysis capture what you observed? Let me know if you want any changes or if we should move forward."
+
+**STOP:** Once both artifacts are confirmed, ask: "Both deliverables are ready. Have you had a chance to review them? When you're set, we can proceed to Lesson 3.2 where we'll create architecture diagrams."
