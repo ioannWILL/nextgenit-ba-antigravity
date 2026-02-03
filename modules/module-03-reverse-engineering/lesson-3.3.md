@@ -8,7 +8,29 @@ Conduct a Gap Analysis. What is being planned in Jira that isn't supported by th
 
 ## IDE Workflow
 
-### Step 1: Three-Source Cross-Reference
+### Step 1: Why Three-Source Analysis Matters
+
+**Say:**
+
+"Here's a pattern in enterprise projects that causes failures:
+
+- **Stakeholders ask for things** that never get planned
+- **Jira backlogs contain tickets** that can't actually be built
+- **Code exists** that nobody knows about or uses
+
+The gap analysis cross-references all three to find:
+1. **Orphaned needs**: Stakeholder requests with no Jira tickets
+2. **Impossible tickets**: Jira work that requires code that doesn't exist
+3. **Hidden capabilities**: Code features nobody asked for (maybe useful, maybe cruft)
+4. **Contradictions**: Where reality differs from assumptions
+
+This is the 'truth document' that prevents surprises during development."
+
+**STOP:** Ask: "Have you seen projects where Jira tickets were written based on assumptions that turned out to be wrong? Gap analysis prevents that. Let me know when you're ready to cross-reference."
+
+---
+
+### Step 2: Cross-Reference Analysis
 
 **Say:**
 
