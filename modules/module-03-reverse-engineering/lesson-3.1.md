@@ -16,10 +16,10 @@ Clone the OpenClaw repository into your workspace and conduct a full technical d
 
 **ACTION:** Run in the terminal:
 ```bash
-git clone https://github.com/openclaw/openclaw openclaw-repo
+git clone https://github.com/openclaw/openclaw course-repo
 ```
 
-**Check:** Wait for the student to confirm the clone was successful. If the clone fails (network issues, repo unavailable), instruct the student to verify internet access and try again. The cloned folder `openclaw-repo/` should now appear in the File Explorer.
+**Check:** Wait for the student to confirm the clone was successful. If the clone fails (network issues, repo unavailable), instruct the student to verify internet access and try again. The cloned folder `course-repo/` should now appear in the File Explorer.
 
 ---
 
@@ -30,7 +30,7 @@ git clone https://github.com/openclaw/openclaw openclaw-repo
 "Now we have the real codebase. Before diving into any single file, a senior BA maps the territory. Let's understand the overall structure."
 
 Use Antigravity to:
-1. **Structure Scan**: "Analyze the `openclaw-repo/` directory. List the top-level folders, key files, and describe what each component appears to be responsible for."
+1. **Structure Scan**: "Analyze the `course-repo/` directory. List the top-level folders, key files, and describe what each component appears to be responsible for."
 
 **Check:** Wait for the student to review the structure output.
 
@@ -43,7 +43,7 @@ Use Antigravity to:
 "Now the part that matters most for our governance mandate. Let's find out how bad things really are."
 
 Use Antigravity to:
-1. **Security Review**: "Scan the `openclaw-repo/` source code. List every security concern you find: hardcoded keys, credentials in config files, logging of sensitive data, missing authentication, open API endpoints, etc."
+1. **Security Review**: "Scan the `course-repo/` source code. List every security concern you find: hardcoded keys, credentials in config files, logging of sensitive data, missing authentication, open API endpoints, etc."
 2. **Capability Mapping**: "What does this codebase actually *do*? Does it handle multi-turn conversations? Does it support multiple LLM providers? Does it have any rate limiting, user management, or access control? Document the findings."
 
 ---

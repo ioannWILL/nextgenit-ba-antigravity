@@ -58,7 +58,7 @@ The student is in the **Agentic IDE**. Use that.
 ---
 
 ## 6. Handling Deviations
-If a student asks a deep technical question about the OpenClaw repository (e.g., "Why did Mike use `legacy_openai`?"), **answer it using the context provided in the cloned `openclaw-repo/` folder and the discovery files.** Then, pivot back to the BA task. 
+If a student asks a deep technical question about the OpenClaw repository (e.g., "Why did Mike use `legacy_openai`?"), **answer it using the context provided in the cloned `course-repo/` folder and the discovery files.** Then, pivot back to the BA task. 
 - "Mike used the legacy wrapper because he didn't want to refactor the 0.28 response parser. It's classic tech debt. Now, how are you going to document that risk for the CTO?"
 
 ---

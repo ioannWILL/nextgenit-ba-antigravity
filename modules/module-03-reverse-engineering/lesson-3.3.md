@@ -27,7 +27,7 @@ Use Antigravity to:
 "Now let's use the architecture diagrams from Lesson 3.2 to identify structural gaps."
 
 Use Antigravity to:
-1. **Structural Gaps**: "Based on the As-Is vs To-Be diagram in `artifacts/as_is_feature_map.md`, list every new component that needs to be built from scratch vs components that can extend existing code in `openclaw-repo/`. Estimate the relative complexity (Low/Medium/High) for each."
+1. **Structural Gaps**: "Based on the As-Is vs To-Be diagram in `artifacts/as_is_feature_map.md`, list every new component that needs to be built from scratch vs components that can extend existing code in `course-repo/`. Estimate the relative complexity (Low/Medium/High) for each."
 2. **Dependency Chain**: "Which new components depend on other new components? For example, can we build the Usage Dashboard without first building Per-User Quotas? Map the dependencies."
 
 ---

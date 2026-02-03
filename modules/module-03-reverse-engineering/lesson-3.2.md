@@ -15,7 +15,7 @@ Analyze the cloned OpenClaw repository and create architecture diagrams (using M
 "Let's create a visual representation of how the system works today. This is something you'd put in front of the CTO or a steering committee."
 
 Use Antigravity to:
-1. **Architecture Diagram**: "Based on the `openclaw-repo/` codebase, generate a Mermaid architecture diagram showing the main components and how they interact: user input flow, LLM API calls, response handling, file system interactions, and any integrations. Use `graph TD` (top-down) format."
+1. **Architecture Diagram**: "Based on the `course-repo/` codebase, generate a Mermaid architecture diagram showing the main components and how they interact: user input flow, LLM API calls, response handling, file system interactions, and any integrations. Use `graph TD` (top-down) format."
 
 **Check:** Review the generated diagram. Ask the student: "Does this match what you expected from the interviews? Where are the governance components?"
 

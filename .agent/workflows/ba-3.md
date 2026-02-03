@@ -5,7 +5,7 @@ description: "Phase 3: Reverse Engineering (Reality check — real OpenClaw repo
 **Do this silently:**
 
 1. Read the instructions in files in folder `modules/module-03-reverse-engineering/` and `.agent/rules/instructions-for-scripts.md`
-2. In Lesson 3.1, guide the student to **clone the real OpenClaw repository** from `https://github.com/openclaw/openclaw` into `openclaw-repo/`. If the repo was already cloned in a previous session, skip the clone and confirm it's present.
+2. In Lesson 3.1, guide the student to **clone the real OpenClaw repository** from `https://github.com/openclaw/openclaw` into `course-repo/`. If the repo was already cloned in a previous session, skip the clone and confirm it's present.
 3. Follow the teaching script precisely as instructed:
    - Deliver no-prefix text naturally to students
    - Stop at "STOP:" points and wait
