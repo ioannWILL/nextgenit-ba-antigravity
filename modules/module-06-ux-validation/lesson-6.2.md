@@ -111,10 +111,18 @@ Use Antigravity to:
 ## Deliverables
 Ask me to create `artifacts/local_prototype.html` with the interactive PII filter simulation.
 
-**STOP:** After creating the artifact, ask: "The interactive prototype is ready. Open `artifacts/local_prototype.html` in a browser and test:
-1. Normal prompt — does it simulate a response?
-2. Prompt with email — does the warning appear?
-3. Override request — does it show confirmation?
+**STOP:** After creating the artifact, ask: "The interactive prototype is ready. Would you like me to open `artifacts/local_prototype.html` in your browser so you can test it?"
+
+**ACTION:** If the user agrees, run:
+```bash
+open artifacts/local_prototype.html
+```
+(On Windows, use `start artifacts/local_prototype.html`. On Linux, use `xdg-open artifacts/local_prototype.html`.)
+
+**STOP:** After the user tests the prototype, ask: "Now that you've tested the prototype:
+1. Normal prompt — did it simulate a response?
+2. Prompt with email — did the warning appear?
+3. Override request — did it show confirmation?
 
 This is what you'd demo to Alex to prove the PII filter works. Does the flow feel right? Ready for UX review in Lesson 6.3?"
 
