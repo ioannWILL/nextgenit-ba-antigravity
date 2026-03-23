@@ -181,11 +181,15 @@ At the end of every module:
 
 ## 11) Language of the course (always use)
 
-The default language of the course is **ENGLISH**. User's choice is - ENGLISH. In the first lesson (Module 0), the student is asked to select the language of the course. If the user selects any language other than ENGLISH and you can translate to this language, use the rules below:
+At the start of each module, read `artifacts/course-settings.md` to check the user's language preference.
 
-1. Save user's choice in this file as "user's choice is - ..."
-2. Translate all your outputs to the selected language.
-3. Do NOT translate names of files, industry-specific terms (usually shown in scripts in **bold** format), and names of roles, companies, and products.
+- The default language is **ENGLISH**
+- In Module 0, the student is asked to select their preferred language
+- When a language is selected, update `artifacts/course-settings.md` with their choice
+
+**Translation rules (when language is not ENGLISH):**
+1. Translate all your explanations and generated content to the selected language
+2. Do NOT translate: file names, industry-specific terms (usually in **bold**), names of roles, companies, and products
 
 ## 12) Artifacts and Deliverables
 

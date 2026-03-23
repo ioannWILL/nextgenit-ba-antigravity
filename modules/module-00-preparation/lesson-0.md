@@ -46,7 +46,7 @@ By the end of this module, students should:
 
 **Action:**
 
-Wait for the student to specify a language. Update "language selected by user is" in rule 11 in `course-general-instructions.md` by replacing the default language with the student's choice.
+Wait for the student to specify a language. Update `artifacts/course-settings.md` by replacing the "Selected language" value with the student's choice (e.g., UKRAINIAN, SPANISH, GERMAN). If they say "English" or want the default, no change is needed.
 
 ---
 
